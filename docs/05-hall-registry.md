@@ -36,7 +36,7 @@ changes (at minimum at every gate).
 
 | Project code | Location (Town, State) | Status | Capacity (seats) | Current phase/gate | BIM model | Notes |
 |---|---|---|---|---|---|---|
-| GMF-OS-OSOGBO-01 | Osogbo, Osun State | DESIGN | 60 | Remodification — estimate & plan issued | Not yet — as-built model required | Altar & structure remodification per RPT-2026-OSG-001; ground floor plan in [`projects/GMF-OS-OSOGBO-01/`](../projects/GMF-OS-OSOGBO-01/) |
+| GMF-OS-OSOGBO-01 | Osogbo, Osun State | DESIGN | 60 | Remodification — estimate & plan issued | Not yet — as-built model required | Altar & structure remodification: cost estimate in [`RPT-2026-OSG-001`](../reports/RPT-2026-OSG-001-altar-and-structure-remodification-estimate.pdf), as-built/proposed drawing comparison and scope of work in [`RPT-2026-OSG-002`](../reports/RPT-2026-OSG-002-drawing-comparison-scope-of-work.pdf); ground floor plan in [`projects/GMF-OS-OSOGBO-01/`](../projects/GMF-OS-OSOGBO-01/) — note the AR-101 CAD plan there carries more detail (incl. surveyed altar setting-out) than the As-Built/Proposed pair used in RPT-2026-OSG-002 and should be reconciled |
 | GMF-EK-ADO-01 | Ado Ekiti, Ekiti State | DESIGN | ~60 | Proposed floor plan under review | Not yet | Proposed plan (DOVA Architects) in [`projects/GMF-EK-ADO-01/`](../projects/GMF-EK-ADO-01/); altar geometry not yet dimensioned per GMF-DS-001 §3 |
 | | | | | | | |
 
